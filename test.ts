@@ -1,1 +1,1 @@
-let test:string;
+let test: string;
